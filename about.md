@@ -1,4 +1,4 @@
-# Hi there, I'm Cotra-Der! 👋
+# Hi there, I'm Shashwat Gupta! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer always eager to learn new technologies and improve my skills. Here you can find some of the projects I've been working on and explore my contributions to the open-source community.
 
